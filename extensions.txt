@@ -1,6 +1,11 @@
 CoenraadS.bracket-pair-colorizer
 dbaeumer.vscode-eslint
+donjayamanne.githistory
+eamodio.gitlens
 esbenp.prettier-vscode
+iansan5653.format-python-docstrings
+ms-python.python
+ms-vscode.vscode-typescript-tslint-plugin
 ms-vsliveshare.vsliveshare
 oderwat.indent-rainbow
 Pivotal.vscode-boot-dev-pack
