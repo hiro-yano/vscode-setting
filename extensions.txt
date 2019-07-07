@@ -1,4 +1,6 @@
+afmicc.GetterAndSetterGenerator
 CoenraadS.bracket-pair-colorizer
+DavidAnson.vscode-markdownlint
 dbaeumer.vscode-eslint
 donjayamanne.githistory
 eamodio.gitlens
@@ -13,6 +15,7 @@ Pivotal.vscode-concourse
 Pivotal.vscode-manifest-yaml
 Pivotal.vscode-spring-boot
 redhat.java
+shd101wyy.markdown-preview-enhanced
 shinnn.stylelint
 techer.open-in-browser
 VisualStudioExptTeam.vscodeintellicode
