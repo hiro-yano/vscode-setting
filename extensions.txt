@@ -18,6 +18,7 @@ ms-vscode-remote.remote-wsl
 ms-vscode-remote.vscode-remote-extensionpack
 ms-vscode.vscode-typescript-tslint-plugin
 ms-vsliveshare.vsliveshare
+msjsdiag.debugger-for-chrome
 oderwat.indent-rainbow
 Pivotal.vscode-boot-dev-pack
 Pivotal.vscode-concourse
