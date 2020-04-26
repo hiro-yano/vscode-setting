@@ -34,7 +34,31 @@
     "editor.renderWhitespace": "all",
     "editor.formatOnSave": true,
     "editor.formatOnType": true,
-    "editor.tabSize": 2,
+    "editor.detectIndentation": true,
+    "[ruby]": {
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true
+    },
+    "[java]": {
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true
+    },
+    "[csharp]": {
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true
+    },
+    "[c]": {
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true
+    },
+    "[python]": {
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true
+    },
+    "[javascript]": {
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true
+    },
     "editor.renderLineHighlight": "all",
     "editor.renderControlCharacters": true,
     "editor.smoothScrolling": true,
