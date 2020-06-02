@@ -62,6 +62,9 @@
         "editor.tabSize": 2,
         "editor.insertSpaces": true
     },
+    "[markdown]": {
+        "files.trimTrailingWhitespace": false
+    },
     "editor.renderLineHighlight": "all",
     "editor.renderControlCharacters": true,
     "editor.smoothScrolling": true,
