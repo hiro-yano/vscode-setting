@@ -52,7 +52,10 @@
     "editor.renderWhitespace": "all",
     "editor.tabSize": 4
   },
-  "C_Cpp.clang_format_style": "{ BasedOnStyle: LLVM, BreakBeforeBraces: Attach, SpaceBeforeParens: Never, IndentWidth: 4 }",
+  "C_Cpp.clang_format_style": "Google",
+  "[cpp]": {
+    "editor.tabSize": 4
+  },
   "[python]": {
     "editor.tabSize": 2,
     "editor.insertSpaces": true
