@@ -1,5 +1,6 @@
 {
   "files.eol": "\n",
+  "editor.wordWrap": "on",
   "git.path": "D:\\opt\\wslgit-mount-at-root.exe",
   "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
   "editor.suggestSelection": "first",
